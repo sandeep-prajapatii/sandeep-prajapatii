@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sandeep-prajapati&label=Profile%20views&color=0e75b6&style=flat" alt="sandeep-prajapati" /> </p>
 
-- 🌱 I’m currently learning **Solidity**
+- 🌱 I’m currently learning about **Decentralized applicatlions**
 
 - 💬 Ask me about **Blockchain and NFT's**
 
